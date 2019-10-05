@@ -3,3 +3,6 @@ Frist step in creating a git repo is git initialization. It is need to create gi
 
 How is the staging area different from the working directory and the repository? What value do you think it offers
 Staging area a virtual special area provided by git. It helps to have controll on the files to be added under one commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+Staging area helps to differentiate the files and changes ready to be commited
