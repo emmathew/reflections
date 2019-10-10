@@ -6,3 +6,6 @@ I don't want to have my local repo updating in the background without my knowled
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Fork is used for cloning a project within git hub. clone is used for making a local copy of a project. branches are alias for commits
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+This will help to merge between the remote branch the local branch locally without having active connection to remote.
