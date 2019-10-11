@@ -12,3 +12,6 @@ This will help to merge between the remote branch the local branch locally witho
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Withwout git or github to collaborate it will be a mess. I would have to share the location or the copy of the code. Only thing that could be easier is that I don't have to rememeber any of the git process or commands to be followed.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+This wasy it makes easier to make changes and get it reviewed before having the changes in the master branch
