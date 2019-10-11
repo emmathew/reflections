@@ -9,3 +9,6 @@ Fork is used for cloning a project within git hub. clone is used for making a lo
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This will help to merge between the remote branch the local branch locally without having active connection to remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Withwout git or github to collaborate it will be a mess. I would have to share the location or the copy of the code. Only thing that could be easier is that I don't have to rememeber any of the git process or commands to be followed.
